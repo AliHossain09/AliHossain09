@@ -39,13 +39,10 @@
 ### 🌍 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/alihossain09/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
   </a>
-  <a href="https://twitter.com/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:alihossain.dev09@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30" />
   </a>
 </div>
