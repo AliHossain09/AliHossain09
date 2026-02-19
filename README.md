@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hey there 👋 I'm Ali Hossain
 
-<!--
-**AliHossain09/AliHossain09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laravel Backend Developer focused on building scalable systems, APIs, and multi-tenant applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Backend-focused Full Stack Developer
+- 🐘 Daily driver: PHP, Laravel, MySQL
+- 🐳 Experienced with Dockerized Laravel apps
+- 🔐 Building secure REST APIs with Sanctum
+- 🤖 Integrated AI systems into school management platforms
+- 🏗 Working on multi-tenant SaaS architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Laravel
+- PHP
+- MySQL
+- Docker
+- Vue
+- Tailwind CSS
+- REST APIs
+- Git & GitHub
+
+### 🔥 Projects
+- 🏫 Multi-Tenant School Management System
+- 🤖 AI Attendance & Chat System
+- 📊 Custom Admin Dashboards
+- 🐳 Dockerized Laravel Deployments
+
+### 🌍 Location
+Bangladesh 🇧🇩  
+Open to remote opportunities.
+
+---
+
+### 📫 Let's Connect
+- GitHub: github.com/yourusername
+- Email: alihossain.dev09@gmail.com
+
+
+
