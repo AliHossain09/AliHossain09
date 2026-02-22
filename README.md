@@ -45,6 +45,9 @@
   <a href="mailto:alihossain.dev09@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30" />
   </a>
+ <a href="https://leetcode.com/alihossain09/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="30" />
+</a>
 </div>
 
 ---
